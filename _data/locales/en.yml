@@ -4,14 +4,14 @@
 
 layout:
   post: Post
-  category: Category
+  category: Topic
   tag: Tag
 
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Categories
+  categories: Topics
   tags: Tags
   archives: Archives
   about: About
@@ -84,8 +84,8 @@ df:
 # categories page
 categories:
   category_measure:
-    singular: category
-    plural: categories
+    singular: topic
+    plural: topics
   post_measure:
-    singular: post
-    plural: posts
+    singular: page
+    plural: pages
