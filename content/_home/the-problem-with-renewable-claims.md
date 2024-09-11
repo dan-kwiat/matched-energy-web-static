@@ -18,33 +18,25 @@ Over the last decade it has become increasingly common for electricity suppliers
 
 But what does "100% Renewable" mean?
 
-What it strongly _implies_ is that all electricity consumed is that electricity is _exclusively_ renewable and that, at all times, all consumption is directly delivered from a wind farm, solar farm, or some other renewable source like hydroelectric or renewable biomass. This is a simple and compelling image and one that the vast majority of people, who spend very little time thinking about it, will accept at face-value.
+What it strongly _implies_ is that all electricity consumed is exclusively renewable. That, at all times, consumption is delivered directly from a wind farm, a solar farm, or some other renewable source like hydroelectric or renewable biomass. It's a simple and compelling image and one that the vast majority of people accept at face-value.
 
-But can it be true that a third of British homes are really getting renewable electricity all the time?
+But can it really be true that a third of British homes are getting renewable electricity all the time? What about the cold, still nights when there's no solar or wind but we're all at home with the lights on?
 
-Isn't decarbonisation a huge challenge? Isn't renewable generation inherently intermittent? What about on a cold and still night when there's no solar or wind energy but we're all at home with the lights on?
-
-Does the claim stack up?
+> TLDR: "100% renewable" isn't 100% renewable
 
 ## There's only one grid
-The first charge that could be leveled against the claim is that there is only one electrical grid, one set of wires.
-
-Electricity generators indiscriminately feed their power into the grid and consumers indiscriminately draw from it. At the physical level there is no need, nor any means, to determine where power came from or where it's going. No one customer is any more connected to a wind- or solar-farm than any other customer.
+The first charge that could be leveled against the claim is that there is only one electrical grid, one set of wires. Electricity generators feed their power into the grid and consumers draw from the grid indiscriminately. There's no need, nor any means, to determine where power came from or where it's going. No one customer is any more connected to a wind farm than any other customer.
 
 **Contractual provenance**\
 ![Supplier balancing](/home/assets/grid-balancing-supplier.png){: w="450" h="300" .right}
 
 However, wires aside, there is a deep and meaningful _contractual_ connection between generators and consumers, and this contractual framework underpins the electrical grid and entire power sector.
 
-The of the electricity supplier, such as Octopus and Ecotricity, is to balance the supply of power from generators with the demand of their customers. For every unit of power they sell to their customers they must buy unit of power from a generator and pay for the distribution of that power over the grid. Suppliers that don't adequately contain the risk of imbalance and the market exposure it creates are at risk of insolvency[^insolvency].
+The job of the electricity supplier, like Octopus or Ecotricity, is to balance the supply of power from generators with the demand of their customers. For every unit of power they sell to their customers they must buy unit of power from a generator and pay for the distribution of that power over the grid. This contractual balancing of supply and demand is critical to the physical stability of the grid. Suppliers that don't adequately contain the risk of imbalance and the market exposure it creates are at risk of insolvency[^insolvency].
 
 [^insolvency]: It was unhedged imbalance that caused the failure of several GB suppliers after the onset of the 2022 war in the Ukraine.
 
-The continuous contractual balancing of supply and demand underpins the entire power sector and is critical to the physical stability of the grid.
-
-So, although it is indeed that case that there's no physical connection between a specific generator and a specific consumer, there is a very real contractual connection which defines the entire sector.
-
-Customers who make a point of choosing a supplier who has contracted a lot of renewable generation have, in a very real sense, funded the purchase of that specific power.
+So, although there's no physical connection between a specific generator and a specific consumer, there is a very real contractual connection. Customers who choose a supplier which sources a lot of renewable energy *do* fund the purchase of that specific energy.
 
 ## Handling intermittency
 The bigger challenge to suppliers' claims are that the grid must be balanced at all times but renewables are intermittent.
@@ -186,7 +178,7 @@ And yet the grid must be perfectly balanced at all moments, instantaneously, sec
 
 The balancing act is incredible and intricate dance of the power markets, automatic micro-adjustments from generators, and direct interventions by the control room at National Grid. Even slight imbalances can lead to equipment failure, brown-outs, and blackouts.
 
-So, in order for consumption to be powered by a wind-farm it must be simultaneous to the generation and, similarly, in order to be solar-powered consumption needs to be during the day!
+So, in order for consumption to be powered by a wind farm it must be simultaneous to the generation and, similarly, in order to be solar-powered consumption needs to be during the day!
 
 ## Flexibility
 There are two mechanisms by which to handle the intermittency of wind- and solar-power:
